@@ -1,5 +1,0 @@
-hub EDL933Hub
-shortLabel EDL933
-longLabel E.coli O157:H7 str. EDL933
-genomesFile genomes.txt
-email awidyarini59@students.calvin.ac.id
