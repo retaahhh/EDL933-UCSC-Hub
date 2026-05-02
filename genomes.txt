@@ -1,8 +1,0 @@
-genome EDL933
-trackDb trackDb.txt
-twoBitPath EDL933.twobit
-organism Escherichia coli O157:H7 str. EDL933
-defaultPos NC_002655.2:1-5528445
-description EDL933 genome
-scientificName Escherichia coli O157:H7 str. EDL933
-htmlPath description.html
