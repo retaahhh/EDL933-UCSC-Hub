@@ -1,6 +1,0 @@
-track genes
-shortLabel Genes
-longLabel EDL933 Gene Annotation
-type gff3
-bigDataUrl GCF_000006665.1_ASM666v1_genomic.gff
-visibility pack
