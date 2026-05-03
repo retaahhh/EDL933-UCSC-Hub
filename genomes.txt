@@ -1,5 +1,5 @@
 genome EDL933
-trackDb trackDb.txt
+#trackDb trackDb.txt
 twoBitPath https://raw.githubusercontent.com/retaahhh/EDL933-UCSC-Hub/main/EDL933.twobit
 organism Escherichia coli O157:H7 str. EDL933
 defaultPos NC_002655.2:1-5528445
