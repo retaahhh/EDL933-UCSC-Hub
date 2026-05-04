@@ -1,6 +1,6 @@
 track genes
 shortLabel Genes
 longLabel EDL933 Gene Annotation
-type bed 
+type bed
 bigDataUrl EDL933.bed
 visibility pack
