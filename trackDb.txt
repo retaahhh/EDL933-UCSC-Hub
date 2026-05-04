@@ -1,6 +1,6 @@
 track genes
 shortLabel Genes
 longLabel EDL933 Gene Annotation
-type bed
-bigDataUrl EDL933.bed
+type bigBed 12
+bigDataUrl https://raw.githubusercontent.com/retaahhh/EDL933-UCSC-Hub/main/gene.bb
 visibility pack
